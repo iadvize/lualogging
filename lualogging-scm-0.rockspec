@@ -3,7 +3,7 @@
 package	= "lualogging"
 version	= "scm-0"
 source	= {
-	url	= "git://github.com/Neopallium/lualogging.git",
+	url	= "git://github.com/iadvize/lualogging.git",
 }
 description	= {
 	summary	= "A simple API to use logging features",
@@ -12,7 +12,7 @@ LuaLogging provides a simple API to use logging features in Lua. Its design was
 based on log4j. LuaLogging currently supports, through the use of appenders,
 console, file, rolling file, email, socket and SQL outputs.
 ]],
-	homepage	= "https://github.com/Neopallium/lualogging",
+	homepage	= "https://github.com/iadvize/lualogging",
 	license	= "MIT/X11",
 }
 dependencies = {
